@@ -1,0 +1,17 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "Application.properties.DataConfig",
+      "name": "com.exam",
+      "type": "Application.properties.DataConfig"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "Application.properties.DataConfig",
+      "name": "com.exam.type",
+      "type": "java.lang.String"
+    }
+  ]
+}
